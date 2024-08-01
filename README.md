@@ -1,1 +1,1 @@
-AI Voice Detection
+AI Generated Voice Detection
